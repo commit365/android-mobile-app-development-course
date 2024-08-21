@@ -132,14 +132,6 @@ To follow this course, you can clone this repository to your local machine. Here
    - Select "Open an existing Android Studio project."
    - Navigate to the cloned repository and select it.
 
-## Course Materials
-
-Inside the repository, you will find:
-
-- Lesson notes and resources for each topic.
-- Sample code and projects for practical exercises.
-- Additional resources and links for further learning.
-
 ## Contributing
 
 If you would like to contribute to this course, feel free to submit a pull request or open an issue for any suggestions or improvements.
